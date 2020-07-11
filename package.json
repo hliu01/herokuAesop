@@ -30,6 +30,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "template.js"
+}
   },
   "author": "bootstrapdash",
   "url": "https://www.bootstrapdash.com/",
